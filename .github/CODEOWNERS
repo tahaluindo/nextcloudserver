@@ -1,0 +1,19 @@
+*/Activity/*                        @nickvergessen
+*/Notifications/*                   @nickvergessen
+/apps/dav/lib/CalDAV                @ChristophWurst @miaulalala @tcitworld
+/apps/dav/lib/CardDAV               @ChristophWurst @miaulalala @tcitworld
+
+# Two-Factor Authentication
+# https://github.com/nextcloud/wg-two-factor-authentication#members
+/apps/twofactor_backupcodes        @ChristophWurst @miaulalala @nickvergessen
+*/TwoFactorAuth/*                  @ChristophWurst @miaulalala @nickvergessen
+/core/templates/twofactor*         @ChristophWurst @miaulalala @nickvergessen
+
+/apps/user_status                  @CarlSchwan
+/apps/settings/lib                 @CarlSchwan
+/lib/private/Metadata              @CarlSchwan
+/lib/private/Profiler              @CarlSchwan
+/lib/public/Profiler               @CarlSchwan
+
+# Security team
+resources/config/ca-bundle.crt    @ChristophWurst @eneiluj @miaulalala @nickvergessen
