@@ -107,7 +107,7 @@
     "@babel/node": "^7.20.0",
     "@nextcloud/babel-config": "^1.0.0",
     "@nextcloud/eslint-config": "^8.0.0",
-    "@nextcloud/stylelint-config": "^2.1.2",
+    "@nextcloud/stylelint-config": "^2.3.0",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/user-event": "^14.4.3",
     "@testing-library/vue": "^5.8.3",
